@@ -1,0 +1,83 @@
+* {
+box-sizing: border-box;
+margin: 0;
+padding: 0;
+}
+html {
+    height: 100%;
+}
+body {
+    height: 100%;
+}
+.Said {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url('./images/Panda.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+.Said h2{
+    background-color: #123456;
+    color: #fff;
+    padding: 10px 50px;
+    font-size: 40px;
+}
+.Bottom-Said {
+background-color:#123456;
+padding: 30px;
+color: #fff;
+text-align: center;
+}
+.Dias {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url('./images/Ayiq.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+.Dias h2 {
+    background-color: #123456;
+    color: #fff;
+    padding: 10px 50px;
+    font-size: 40px;
+}
+.Bottom-Dias {
+background-color:#123456;
+padding: 30px;
+color: #fff;
+text-align: center;
+}
+.ABS {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url('./images/Xamzat.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+.ABS h2 {
+    background-color: #123456;
+    color: #fff;
+    padding: 10px 50px;
+    font-size: 40px;
+}
+.Bottom-ABS {
+background-color:#123456;
+padding: 30px;
+color: #fff;
+text-align: center;
+}
